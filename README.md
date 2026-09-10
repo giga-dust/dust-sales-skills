@@ -10,9 +10,9 @@ These skills were originally written for CLI/plugin-based agent ecosystems. This
 
 | Original concept | Dust concept |
 |---|---|
-| Claude Skill / plugin | **Skill** (reusable instruction set attached to an agent) |
+| Skill / plugin | **Skill** (reusable instruction set attached to an agent) |
 | MCP server / CLI binary | **Toolset** (e.g. Salesforce, Gmail, Slack) or **Connection** |
-| CLAUDE.md / project context | **AGENTS.md** in a **Pod** |
+| FILE.md / project context | **AGENTS.md** in a **Pod** |
 | Project / workspace folder | **Pod** (shared team home: files, tasks, conversations) |
 | Artifact / rendered output | **Frame** (interactive dashboard/visualization) or file |
 | Subagent | **Sub-agent** (agent called by another agent) |
