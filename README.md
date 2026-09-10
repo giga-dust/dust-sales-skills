@@ -34,7 +34,7 @@ These skills were originally written for CLI/plugin-based agent ecosystems. This
 
 Cross-comparison of what each skill needs vs. the toolsets and connections available in your Dust workspace today:
 
-| Capability needed | Available in Vanta workspace | Used by |
+| Capability needed | Available in the workspace | Used by |
 |---|---|---|
 | CRM read/write | ✅ Salesforce toolset | crm-activity-logging, pipeline-reporting, pipeline-brief |
 | Call recordings & transcripts | ✅ Gong (synced as company data) | pipeline-brief, sales-enablement |
@@ -61,4 +61,4 @@ Cross-comparison of what each skill needs vs. the toolsets and connections avail
 
 ## Attribution
 
-Original skills by their respective authors on [skills.sh](https://www.skills.sh). This repo adapts their methodology to Dust concepts and the Vanta workspace stack; all credit for the underlying frameworks goes to the original authors.
+Original skills by their respective authors on [skills.sh](https://www.skills.sh). This repo adapts their methodology to Dust concepts and your workspace stack; all credit for the underlying frameworks goes to the original authors.
