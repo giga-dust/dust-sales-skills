@@ -50,7 +50,7 @@ Cross-comparison of what each skill needs vs. the toolsets and connections avail
 | E-commerce revenue (PayPal/QuickBooks) | ❌ Not connected | (original `sales-brief` dependency — replaced with Salesforce) |
 | HubSpot CRM | ❌ Not connected (Salesforce is the CRM) | (original `sales-execution`/`sales-reporting` dependency — replaced) |
 
-**Bottom line:** every skill in this repo runs on toolsets Vanta already has connected.
+**Bottom line:** every skill in this repo runs on toolsets you already have connected.
 
 ## How to use these in Dust
 
