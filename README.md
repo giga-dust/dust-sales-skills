@@ -30,9 +30,9 @@ These skills were originally written for CLI/plugin-based agent ecosystems. This
 | [`sales-enablement`](skills/sales-enablement/SKILL.md) | Create decks, one-pagers, objection docs, demo scripts, playbooks | Adapted from `coreyhaines31/marketingskills/sales-enablement` |
 | [`enterprise-sales-motion`](skills/enterprise-sales-motion/SKILL.md) | Coach a repeatable enterprise sales engine (discovery, procurement, team) | Adapted from `RefoundAI/lenny-skills/enterprise-sales-motion` |
 
-## Fit with the Vanta Dust workspace
+## Fit with YOUR workspace
 
-Cross-comparison of what each skill needs vs. the toolsets and connections available in the Vanta workspace today:
+Cross-comparison of what each skill needs vs. the toolsets and connections available in your Dust workspace today:
 
 | Capability needed | Available in Vanta workspace | Used by |
 |---|---|---|
@@ -54,7 +54,7 @@ Cross-comparison of what each skill needs vs. the toolsets and connections avail
 
 ## How to use these in Dust
 
-1. Open **Skills** in your Dust workspace and create a new skill.
+1. Open **Skills** in your Dust workspace and create a new skill, or **New Skills>FromExisting>PasteGithubURL**
 2. Paste the `SKILL.md` content as the skill's instructions; use the frontmatter `description` as the skill description (this is what tells agents when to activate it).
 3. Attach the toolsets listed under **Required toolsets** to the agent using the skill.
 4. Optionally pin the skill to a Pod so the whole team's agents can use it.
