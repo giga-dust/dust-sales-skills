@@ -29,6 +29,7 @@ These skills were originally written for CLI/plugin-based agent ecosystems. This
 | [`sales-ops-workflows`](skills/sales-ops-workflows/SKILL.md) | Meeting prep, email-to-task, weekly digest across email + calendar + docs | Adapted from `googleworkspace/cli/persona-sales-ops` |
 | [`sales-enablement`](skills/sales-enablement/SKILL.md) | Create decks, one-pagers, objection docs, demo scripts, playbooks | Adapted from `coreyhaines31/marketingskills/sales-enablement` |
 | [`enterprise-sales-motion`](skills/enterprise-sales-motion/SKILL.md) | Coach a repeatable enterprise sales engine (discovery, procurement, team) | Adapted from `RefoundAI/lenny-skills/enterprise-sales-motion` |
+| [`cs-command-center`](skills/cs-command-center/SKILL.md) | Templated customer Pod that orchestrates all six skills for one account | New Dust orchestration skill |
 
 ## Fit with YOUR workspace
 
